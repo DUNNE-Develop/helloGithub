@@ -1,0 +1,6 @@
+psoibles herramientas de software para el primer proyecto:
+1. CHECASEN
+2. biblioteca MNE-Python
+3. OpenBCI
+4. FieldTrip
+5.MATLAB con el Toolbox de EEGLAB
