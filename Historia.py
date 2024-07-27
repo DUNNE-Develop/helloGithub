@@ -1,2 +1,3 @@
 print("Había una vez...")
-# Añade prints contando una historia (la historia debe tener sentido respecto al contexto anterior).
+print("dos perritos, el grande de ojos marrones, piel cobriza y dentadura parda sin salivar;")
+print("el chico, orejas peinadas, lomo de lustre y patas afinadas.")

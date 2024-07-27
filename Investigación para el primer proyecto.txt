@@ -1,0 +1,23 @@
+Algunas herramientas que nos podrían ayudar a la planeación de nuestro primer 
+proyecto, gracias a su particular funcionalidad, son las siguiente:
+
+OpenBCI GUI. Is OpenBCI's powerful software tool for visualizing, recording, 
+and streaming data from the OpenBCI Boards. Data can be displayed in live-time, 
+played back, saved to your computer in .txt or .bdf/.edf format, as well as streamed 
+in live-time to third-party software such as MATLAB.
+
+BCI2000. A real-time system that can synchronize EEG and other signals with a wide
+variety of biosignals and input devices such as mice or eye-trackers. It has several
+modules to manage data importing and exporting in common file formats.
+
+EEGLab. Un entorno interactivo de MATLAB para el procesamiento de señales EEG. 
+Es muy utilizado en la comunidad científica para el análisis avanzado de EEG.
+
+BrainBay. Una aplicación de biorretroalimentación y neurorretroalimentación, 
+diseñada para funcionar con varios amplificadores de EEG (incluidos los amplificadores
+de hardware abierto OpenEEG y OpenBCI). Admite funciones de interfaz hombre-computadora y 
+el marco de software NeuroServer para transmitir grabaciones en vivo a través de Internet/LAN.
+
+NeuroPype. A powerful platform for real-time brain-computer interfacing (BCI), neuroimaging,
+and neural signal processing, which supports a range of biosignal modalities including EEG,
+fNIRS, ExG, etc.
